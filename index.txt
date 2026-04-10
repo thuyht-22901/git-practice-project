@@ -1,1 +1,2 @@
 This is my first change for the Git workflow practice.
+TC04 - Add email info
