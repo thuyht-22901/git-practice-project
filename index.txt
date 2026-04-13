@@ -1,3 +1,5 @@
-This is my first change for the Git workflow practice.( main)
+Contact info me
 TC04 - Add email info
+TC004.1: email
+TC004.2: name
 TC05 - Update contact info validation
